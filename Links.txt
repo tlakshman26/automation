@@ -1,0 +1,15 @@
+# Connecting Big Query using python Ref links
+==============================================
+https://betterprogramming.pub/analyzing-healthcare-data-with-saturncloud-io-and-bigquery-a9fdac3c0de4
+https://betterprogramming.pub/how-to-manage-big-data-with-5-python-libraries-a89ce5eddb02
+
+
+# Connencting Jenkins Using Python Ref Links
+============================================
+https://python-jenkins.readthedocs.io/en/latest/api.html#jenkins.Jenkins.get_job_info
+https://python-jenkins.readthedocs.io/en/latest/api.html#jenkins.Jenkins.get_build_info
+
+#Tableau server client(Python)
+==============================
+https://tableau.github.io/server-client-python/docs/samples
+https://github.com/tableau/server-client-python/blob/master/samples/list.py
